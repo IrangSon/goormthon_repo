@@ -7,7 +7,7 @@ import {
   Input,
   Label,
   Row,
-} from "@goorm-dev/gds-components";
+} from "@goorm-dev/gds-goormthon";
 
 const App = () => {
   return <div>구름톤</div>;
